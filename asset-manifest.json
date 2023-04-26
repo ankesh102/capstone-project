@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/capstone-project/static/css/main.6de874af.css",
-    "main.js": "/capstone-project/static/js/main.2ce8dd0f.js",
-    "static/media/background.jpg": "/capstone-project/static/media/background.e27acacffdd9483f080f.jpg",
-    "static/media/materialdesignicons-webfont.eot": "/capstone-project/static/media/materialdesignicons-webfont.a09e19a26c69d41759b6.eot",
-    "static/media/materialdesignicons-webfont.ttf?v=7.1.96": "/capstone-project/static/media/materialdesignicons-webfont.74f12de10e15e784fb55.ttf",
-    "static/media/materialdesignicons-webfont.woff?v=7.1.96": "/capstone-project/static/media/materialdesignicons-webfont.a20ebdc2830d7db8d98f.woff",
-    "static/media/materialdesignicons-webfont.woff2?v=7.1.96": "/capstone-project/static/media/materialdesignicons-webfont.3e1e7fadbeeea08d11e5.woff2",
-    "static/media/correct-answer.mp3": "/capstone-project/static/media/correct-answer.e1cf8406691899855c2d.mp3",
-    "static/media/wrong-answer.mp3": "/capstone-project/static/media/wrong-answer.e08b616b298a5da45785.mp3",
-    "static/media/button-sound.mp3": "/capstone-project/static/media/button-sound.8277ab8cffed4aaa3b2e.mp3",
-    "index.html": "/capstone-project/index.html",
-    "main.6de874af.css.map": "/capstone-project/static/css/main.6de874af.css.map",
-    "main.2ce8dd0f.js.map": "/capstone-project/static/js/main.2ce8dd0f.js.map"
+    "main.css": "./static/css/main.aeae06bc.css",
+    "main.js": "./static/js/main.80ca992a.js",
+    "static/media/background.jpg": "./static/media/background.e27acacffdd9483f080f.jpg",
+    "static/media/materialdesignicons-webfont.eot": "./static/media/materialdesignicons-webfont.a09e19a26c69d41759b6.eot",
+    "static/media/materialdesignicons-webfont.ttf?v=7.1.96": "./static/media/materialdesignicons-webfont.74f12de10e15e784fb55.ttf",
+    "static/media/materialdesignicons-webfont.woff?v=7.1.96": "./static/media/materialdesignicons-webfont.a20ebdc2830d7db8d98f.woff",
+    "static/media/materialdesignicons-webfont.woff2?v=7.1.96": "./static/media/materialdesignicons-webfont.3e1e7fadbeeea08d11e5.woff2",
+    "static/media/correct-answer.mp3": "./static/media/correct-answer.e1cf8406691899855c2d.mp3",
+    "static/media/wrong-answer.mp3": "./static/media/wrong-answer.e08b616b298a5da45785.mp3",
+    "static/media/button-sound.mp3": "./static/media/button-sound.8277ab8cffed4aaa3b2e.mp3",
+    "index.html": "./index.html",
+    "main.aeae06bc.css.map": "./static/css/main.aeae06bc.css.map",
+    "main.80ca992a.js.map": "./static/js/main.80ca992a.js.map"
   },
   "entrypoints": [
-    "static/css/main.6de874af.css",
-    "static/js/main.2ce8dd0f.js"
+    "static/css/main.aeae06bc.css",
+    "static/js/main.80ca992a.js"
   ]
 }
